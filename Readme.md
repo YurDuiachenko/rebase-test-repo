@@ -1,0 +1,1 @@
+Test Java project rith git rebase
